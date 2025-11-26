@@ -1,0 +1,14 @@
+j kono value r upor mathematical and logical operations perform er jonno
+
+operands are the values or variables eder upor amader operator act kore
+
+----
+1.arithmaric
+--mathematical calculatons
+2.comparison-compare value
+3.logical-combine
+4.assignment-to assign value
+5.identity-object memory location compare
+6.membership-value exist kore naki na kore in sequence tokhn use hoy
+
+----
