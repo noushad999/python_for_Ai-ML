@@ -1,0 +1,23 @@
+#using loop we can multiple time repeat
+
+1.while loop-joto kkhn condition false na hoy toto kkhon cholte thake
+2.for loop:ekta limited time porjonto ekta condition e iterate kore
+
+
+
+while loop
+True
+
+while condition:
+     #code executed
+
+
+
+for loop
+-->list,tuple,dictionary,string e use korte hoy
+
+for variable in sequence:
+    #code execute
+
+for a in list:
+        print(a)
