@@ -1,0 +1,23 @@
+1.definition and characteristics
+-->key value pairs
+-->unordered before python 3.7
+-->mutable
+
+2.creation
+  using {} braces
+  using dict() constructor
+
+3.operations
+   adding items
+   updating items
+   deleting items
+
+4.dictionary methods
+  get(),keys(),values(),items()
+  pop(),popitem(),clear()
+
+5.comprehensions
+  dictionary com prehension
+6.nested dictionary
+7.common use case
+
