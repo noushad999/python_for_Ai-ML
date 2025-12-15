@@ -1,0 +1,28 @@
+string and character
+
+string is a sequence of characters
+
+single quotes-'python'
+double quotes="python"
+triple quotes-
+'''
+this is a 
+multi line
+'''
+
+"""
+this is also a
+multi line
+"""
+
+3 characters of string
+
+1.immutable
+2.indexed
+3.iterable
+
+REAL LIFE use
+jodi kono software banai tokhn user er nam,password,email address,number store kora lage tokhn string use kora hoy
+
+message display korar jonno
+

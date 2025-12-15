@@ -1,0 +1,12 @@
+a class is a blueprint or template for creating object
+
+suppose we are making a house.so we have a architecture or map of that home.
+
+so here map=class
+house=object
+
+object are the actual instance of a class
+
+
+class=blueprint of car
+object=actual car

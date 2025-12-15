@@ -1,0 +1,9 @@
+
+"""
+1.polymorphism-one name multiple forms
+2.encapsulation-hiding data and allowing controlled access
+3.inheritance-resue existing code by creating new classes based on existing ones
+4.abstraction-hiding complex implementation details and showing only the essential features
+5.class and object-blueprint and instance of the blueprint
+
+"""
