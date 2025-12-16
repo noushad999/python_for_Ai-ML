@@ -1,0 +1,5 @@
+file=open('D:/python_for_Ai-ML/introduction/fhandling/file2.txt','w')
+content=input("enter some data to write into the file:")
+file.write(content)
+print("data written successfully")
+file.close()
